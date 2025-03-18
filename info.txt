@@ -1,0 +1,8 @@
+### GITHUB REPO FOR THIS COURSE ###
+https://github.com/conduktor/kafka-beginners-course
+
+### GET THE ZIP FILE FOR THE CODE ###
+wget https://raw.githubusercontent.com/conduktor/conduktor.io-public/main/kafka-for-beginners-code-20230404.zip
+
+
+
